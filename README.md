@@ -1,5 +1,7 @@
 # 💫 About Me:
 My name is Alaa Osama Mohamed. <br>I graduated from the Faculty of Artificial Intelligence.<br>I completed intensive Data Engineering training programs at ITI and DEPI.
+<br> Built end to-end ETL/ELT pipelines using Python and SQL, workflow orchestration with Airflow, and analytics engineering with dbt 
+and Snowflake.<br> Seeking a Data Engineer role focused on scalable pipelines, orchestration, and data modeling.
 
 
 ## 🌐 Socials:
